@@ -13,7 +13,8 @@ This project implements a simple maze environment with Pygame and OpenAI Gym, an
 
 1. Clone the repository:
     ```bash
-   
+   git clone https://github.com/yourusername/maze-rl-agent.git
+   cd maze-rl-agent   
 2. Install dependencies:
     pip install -r requirements.txt
 
